@@ -1,0 +1,9 @@
+8
+1 1 admin admin123 Super Admin 000 Bank_HQ 000-0000 admin@bank.com 1
+2 1 chiefadmin chiefadmin123? Mikel Guardiola 000001 64_Zoo_Lane 07898475635 mikelg@gmail.com 1
+3 2 cashierno1 cashier1? Vincent Schwarzenegger 000002 67_Larp_St 07854978624 vincent123@yahoo.com 1
+4 2 cashierno2 cashier2? Shawarm Kabob 000003 123_High_St 07896542632 shawarmalover@outlook.com 1
+5 3 sonnyfaz sonnyfaz123? Sonny Faz 000004 1_Main_St 07988564423 sonnyf@gmail.com 1
+6 3 rogan999 cheesesteak123? Rogan Mac 000005 97_Cake_Avenue 07995463247 roganseats@gmail.com 1
+7 3 EmperorOfAllTheLand GOAT123 Julius Caesar 000006 Rome 00000000000 julius@manuscript.com 1
+8 3 spotty spotty Karen Spotty 000007 123_Spotty_Lane 07894562145 spotty@msn.net 1
