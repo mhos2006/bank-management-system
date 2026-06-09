@@ -19,5 +19,5 @@ Console-based banking system written in C with role-based access control.
 ## How it works
 The system loads data from text files when started and saves changes automatically.
 
-##Notes
+## Notes
 For launching for the first time, note that the username is "admin", and the password is "admin123".
